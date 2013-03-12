@@ -2,7 +2,7 @@ VERSION = 3
 PATCHLEVEL = 1
 SUBLEVEL = 10
 EXTRAVERSION =
-NAME = "Project Elite - Buckmarble"
+NAME = "Droid Concepts - Buckmarble"
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
